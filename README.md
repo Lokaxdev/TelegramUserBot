@@ -13,3 +13,4 @@
 ⠁⠃⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
  This project is still in progress
+  you can use it, just be careful >-<
